@@ -7,6 +7,13 @@
 
 ***
 
+* [Java SE 8](https://www.oracle.com/java)
+* [JUnit 4](https://junit.org)
+* [Maven 3](https://maven.apache.org)
+* [IntelliJIDEA 2018](https://www.jetbrains.com/idea)
+
+***
+
 * [Introduction to Google Protocol Buffer](https://www.baeldung.com/google-protocol-buffer)
 * [Introduction to gRPC](https://www.baeldung.com/grpc-introduction)
 * [Java Quickstart](https://grpc.io/docs/quickstart/java.html)
